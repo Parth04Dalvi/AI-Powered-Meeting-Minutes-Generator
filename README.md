@@ -1,4 +1,3 @@
-I will write a detailed README file for your AI-Powered Meeting Minutes Generator project. I'll include sections for the project's purpose, key features, setup instructions, how to use the application, and the technologies used. This will make your project easy for others to understand and run.
 
 AI-Powered Meeting Minutes Generator 📝
 This project is an AI-powered tool that automates the creation of meeting minutes. It uses a state-of-the-art speech-to-text model to transcribe meeting audio and a large language model (LLM) to summarize the transcript into a professional, well-structured report.
